@@ -42,7 +42,7 @@ Compilar y ejecutar con Maven:
 
 
 La aplicación quedará disponible en:
-👉 http://localhost:8080/tareas
+👉 http://localhost:8082/tareas
 
 Endpoints principales
 
