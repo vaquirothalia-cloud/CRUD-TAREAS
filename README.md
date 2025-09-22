@@ -1,4 +1,4 @@
-# Tarea
+# Tareas
 -CRUD de Tareas con Spring Boot
 
 Este proyecto es una aplicación de ejemplo desarrollada con Spring Boot que implementa un sistema básico de gestión de tareas mediante un CRUD (Create, Read, Update, Delete).
