@@ -64,10 +64,10 @@ Las pruebas de la API se realizaron con Postman, verificando el funcionamiento d
 
 - Autores
 
-Jefferson Rueda
+*Jefferson Rueda
 
-Thalía Vaquiro
+*Thalía Vaquiro
 
-David Burgos
+*David Burgos
 
 ¿Quieres que te lo prepare en formato .md (Markdown) para subir directo a GitHub, o en Word para entregar como documento junto al proyecto?
